@@ -1,0 +1,3 @@
+face_id,plate,notes
+face-123,,Persona vigilada
+,ABC123,Vehículo vigilado
