@@ -44,3 +44,8 @@ Camera → AI Detection (e.g., Rekognition) → Event Processor → Feature Stor
 - Add drift detection
 - Add ALPR integration
 - Add explainability layer (SHAP)
+
+## Arquitectura
+
+![Arquitectura](docs/architecture.png)
+
